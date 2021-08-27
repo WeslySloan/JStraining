@@ -38,4 +38,8 @@ var app = http.createServer(function(request,response){
     response.end(template);
 
 });
+
+// 3000번의 port를 점유 합니다.
+// 무엇을 위해서? 웹 서비스를 위해서
+// lochalhost:3000
 app.listen(3000);

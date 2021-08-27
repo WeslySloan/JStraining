@@ -1,0 +1,20 @@
+{
+  "name": "JStraining",
+  "version": "1.0.0",
+  "description": "JStraining",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeslySloan/JStraining.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeslySloan/JStraining/issues"
+  },
+  "homepage": "https://github.com/WeslySloan/JStraining#readme"
+}
