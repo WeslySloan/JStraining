@@ -16,5 +16,5 @@ const multiple = (...arr) => arr.reduce((a, b) => {
 console.log(add(10, 25))
 console.log(multiple(2, 7, 10, 5, 3))
 
-require('./web2.nodejs/dynamicmain')
+require('./web2.nodejs/list-outputmain')
 // console.log('Root: Main.js')
